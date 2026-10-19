@@ -1,0 +1,17 @@
+name: bits_domain_core
+description: A domain core library for bits-house packages.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.13.5
+
+# Add regular dependencies here.
+dependencies:
+  equatable: ^3.0.0
+  uuid: ^4.6.0
+  meta: ^1.19.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.33.0
